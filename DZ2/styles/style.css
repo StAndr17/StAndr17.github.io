@@ -1,0 +1,176 @@
+      body {
+         min-width: 1600px;
+      }
+      .header{
+        margin-top:20px;
+      }
+      .minto {
+            color: #b9acc5;
+        font-size: 40px;
+        margin-left: 10px;
+        padding-top: 10px;
+        float: left;
+      }
+      .m {
+        float: left;
+        width: 70px !important;
+        height: 70px !important;
+        padding-left: 250px
+      }
+      .heh1, .heh2, .heh3, .heh4 {
+        padding-top: 20px;
+        margin-left: 40px;
+        float: left;
+        color: #b9acc5;
+        fonr-size: 30px !important;
+      }
+      .heh1 {
+        margin-left: 120px;
+      }
+      
+      .bg-image {
+  background-image: "https://img2.goodfon.ru/original/3000x2000/d/69/trava-makro-rosa-kapli-voda.jpg";
+  
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%; 
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-text {
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+      .mg {
+        width: 800px;
+        height: 300px;
+        opacity: 0.7;
+      }
+      .mgh1 {
+              font-style: italic;
+    color: white;
+    position: absolute;
+    top: 30px;
+    left: 420px;
+    font-size: 90px;
+         text-shadow: 2px 2px black;
+      }
+      .mgp {
+        position: absolute;
+    top: 170px;
+    left: 375px;
+      }
+      .mainText {
+        padding-top: 500px;
+        width: 800px;
+        padding-left: 220px;
+            padding-bottom: 30px;
+      }
+      .lp {
+        border-top: 1px solid gray;
+        padding: 5px;
+        border-bottom: 1px solid gray;
+        font-family: cursive;
+      }
+      .cs {
+        float: left;
+        color: #836aa0;
+      }
+      .roundImg {
+        border-radius: 50%;
+        width: 300px;
+        height: 300px;
+        border: 10px solid black;
+        float: left;
+            margin-left: 200px;
+      }
+      .rh1 {
+        color: black;
+        float:left;
+      }
+      
+      .rp {
+        color: gray;
+        float:left;
+            position: absolute;
+    top: 740px;
+    left: 580px;
+        width: 500px;
+      }
+      .wh {
+        position: absolute;
+    top: 1050px;
+    left: 270px;
+    font-size: 30px;
+      }
+      .blockGrid {
+            width: 100%;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    top: 1100px;
+      }
+      .blockSuper {
+        margin-left: 100px;
+      }
+      .block {
+        width: 18%;
+          height: 30%;
+        background: #f5f5f5;
+        border: 1px solid gray;
+        float: left;
+        color: gray;
+        font-size: 35px;
+        align: center;
+        padding: 20px;
+      }
+      footer {
+        position: absolute;
+        background: gray;
+        opacity: 0.5;
+    width: 100%;
+    left: 0;
+    top: 1250px;
+      }
+      footer div {
+        float: right;
+    margin: 20px;
+      }
+      footer p {
+        float: left;
+    margin: 20px;
+        padding-bottom: 50px;
+      }
+      .spLine {
+            width: 100%;
+    height: 10px;
+    background: #997fb6;
+    position: absolute;
+    top: 0;
+    left: 0;
+        margin-bottom: 60px;
+      }
+      .line {
+        border: 1px solid;
+        position: absolute;
+        width: 475px;
+        opacity: 0.6;
+        top: 20px;
+        left: 440px;
+      
+      }
+      a {
+        cursor: pointer;
+}
